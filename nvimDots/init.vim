@@ -8,7 +8,7 @@ set nowrap
 set noswapfile
 set incsearch 
 set ignorecase
-set clipboard=unnamed
+set clipboard=unnamedplus
 set encoding=utf-8
 set showcmd
 set showmatch
